@@ -2,6 +2,8 @@
 Hello
 This very simple and cool news blog was my first project with the Laravel framework, and I was very happy after doing it
 And I wanted to share it with you so that you can use it if you need it.
+
+
 Forward to more challenges..!
 
 ![bandicam 2023-11-24 17-42-54-458](https://github.com/MojtabaZarreh/A-simple-news-blog-with-Laravel/assets/71370569/cf92ab5e-7ebe-46be-bc66-5053cbf2e874)
