@@ -20,5 +20,5 @@ as well as the ability to authenticate.
 
 ![bandicam 2023-11-24 17-43-07-974](https://github.com/MojtabaZarreh/A-simple-news-blog-with-Laravel/assets/71370569/681880e3-a020-4afe-a6df-037ccb6ab149)
 
-![bandicam 2023-11-24 17-43-07-974](https://github.com/MojtabaZarreh/A-simple-news-blog-with-Laravel/assets/71370569/f45f6df7-4ae7-4bc7-aed7-9c6f4ee62f28)
 
+![bandicam 2023-11-24 17-43-15-635](https://github.com/MojtabaZarreh/A-simple-news-blog-with-Laravel/assets/71370569/469bd8d7-5642-45f4-95a3-f8ff2ffc0122)
